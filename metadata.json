@@ -1,0 +1,5 @@
+{
+  "name": "Portrait Angle Expander",
+  "description": "Upload a portrait and generate new images of the same person from various angles with a custom studio background.",
+  "requestFramePermissions": []
+}
